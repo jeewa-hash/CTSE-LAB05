@@ -17,5 +17,7 @@ All services communicate only through the API Gateway.
 - JSON for request/response bodies
 - Postman (for API testing)
 
+
+
 - docker compose build
 -docker compose up
